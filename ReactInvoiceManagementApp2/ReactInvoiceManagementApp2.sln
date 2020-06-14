@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactInvoiceManagementApp2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Domain", "InvoiceManagementApp2.Domain\InvoiceManagementApp2.Domain.csproj", "{55CB6D27-3D80-4A3C-95D2-2F897B0D4057}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Application", "InvoiceManagementApp2.Application\InvoiceManagementApp2.Application.csproj", "{7FB42016-FEFA-42C3-A4BA-534717BBCC92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{55CB6D27-3D80-4A3C-95D2-2F897B0D4057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55CB6D27-3D80-4A3C-95D2-2F897B0D4057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55CB6D27-3D80-4A3C-95D2-2F897B0D4057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB42016-FEFA-42C3-A4BA-534717BBCC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB42016-FEFA-42C3-A4BA-534717BBCC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB42016-FEFA-42C3-A4BA-534717BBCC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB42016-FEFA-42C3-A4BA-534717BBCC92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
