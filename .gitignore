@@ -6,3 +6,7 @@
 /ReactInvoiceManagementApp2/.vs/ReactInvoiceManagementApp2/v16
 /ReactInvoiceManagementApp2/InvoiceManagementApp2.Domain/obj
 /ReactInvoiceManagementApp2/InvoiceManagementApp2.Application/obj
+/ReactInvoiceManagementApp2/InvoiceManagementApp2.Application/bin/Debug/netstandard2.1
+/ReactInvoiceManagementApp2/InvoiceManagementApp2.Domain/bin/Debug/netstandard2.1
+/ReactInvoiceManagementApp2/InvoiceManagementApp2.Infrastructure/bin/Debug/netcoreapp3.1
+/ReactInvoiceManagementApp2/InvoiceManagementApp2.Infrastructure/obj
