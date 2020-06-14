@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Application", "InvoiceManagementApp2.Application\InvoiceManagementApp2.Application.csproj", "{7FB42016-FEFA-42C3-A4BA-534717BBCC92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Infrastructure", "InvoiceManagementApp2.Infrastructure\InvoiceManagementApp2.Infrastructure.csproj", "{19304F81-CB98-4CC2-B84B-D95CB805E18D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Entities", "InvoiceManagementApp2.Infrastructure\InvoiceManagementApp2.Entities.csproj", "{19304F81-CB98-4CC2-B84B-D95CB805E18D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

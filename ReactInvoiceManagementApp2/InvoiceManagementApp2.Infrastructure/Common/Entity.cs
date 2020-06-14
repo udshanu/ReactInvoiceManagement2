@@ -1,11 +1,11 @@
-﻿using InvoiceManagementApp2.Domain.Enums;
+﻿using InvoiceManagementApp2.Entities.Enums;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace InvoiceManagementApp2.Domain.Common
+namespace InvoiceManagementApp2.Entities.Common
 {
     public abstract class Entity
     {

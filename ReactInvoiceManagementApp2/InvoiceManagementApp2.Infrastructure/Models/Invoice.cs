@@ -1,10 +1,10 @@
-﻿using InvoiceManagementApp2.Domain.Common;
-using InvoiceManagementApp2.Domain.Enums;
+﻿using InvoiceManagementApp2.Entities.Common;
+using InvoiceManagementApp2.Entities.Enums;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace InvoiceManagementApp2.Domain.Entities
+namespace InvoiceManagementApp2.Entities.Models
 {
     public class Invoice : Entity
     {

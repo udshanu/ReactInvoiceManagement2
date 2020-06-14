@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InvoiceManagementApp2.Infrastructure.Data
+namespace InvoiceManagementApp2.Entities.Models
 {
     public class Books
     {

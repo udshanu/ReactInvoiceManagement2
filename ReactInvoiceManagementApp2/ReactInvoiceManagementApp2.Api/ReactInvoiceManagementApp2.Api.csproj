@@ -27,7 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InvoiceManagementApp2.Infrastructure\InvoiceManagementApp2.Infrastructure.csproj" />
+    <ProjectReference Include="..\InvoiceManagementApp2.Infrastructure\InvoiceManagementApp2.Entities.csproj" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

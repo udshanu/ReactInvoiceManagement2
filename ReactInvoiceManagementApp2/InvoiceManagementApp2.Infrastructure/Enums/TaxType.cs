@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InvoiceManagementApp2.Domain.Enums
+namespace InvoiceManagementApp2.Entities.Enums
 {
-    public enum DiscountType
+    public enum TaxType
     {
         Flat,
         Precentage
