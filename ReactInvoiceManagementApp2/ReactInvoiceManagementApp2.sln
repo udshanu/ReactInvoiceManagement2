@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Appli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Entities", "InvoiceManagementApp2.Infrastructure\InvoiceManagementApp2.Entities.csproj", "{19304F81-CB98-4CC2-B84B-D95CB805E18D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagementApp2.Repository", "InvoiceManagementApp2.Repository\InvoiceManagementApp2.Repository.csproj", "{717CDA78-AEF4-4A70-9E3B-07A583FC2E24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{19304F81-CB98-4CC2-B84B-D95CB805E18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19304F81-CB98-4CC2-B84B-D95CB805E18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19304F81-CB98-4CC2-B84B-D95CB805E18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717CDA78-AEF4-4A70-9E3B-07A583FC2E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717CDA78-AEF4-4A70-9E3B-07A583FC2E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717CDA78-AEF4-4A70-9E3B-07A583FC2E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717CDA78-AEF4-4A70-9E3B-07A583FC2E24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

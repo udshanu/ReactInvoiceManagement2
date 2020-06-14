@@ -10,3 +10,5 @@
 /ReactInvoiceManagementApp2/InvoiceManagementApp2.Domain/bin/Debug/netstandard2.1
 /ReactInvoiceManagementApp2/InvoiceManagementApp2.Infrastructure/bin/Debug/netcoreapp3.1
 /ReactInvoiceManagementApp2/InvoiceManagementApp2.Infrastructure/obj
+/ReactInvoiceManagementApp2/InvoiceManagementApp2.Repository/bin/Debug/netcoreapp3.1
+/ReactInvoiceManagementApp2/InvoiceManagementApp2.Repository/obj

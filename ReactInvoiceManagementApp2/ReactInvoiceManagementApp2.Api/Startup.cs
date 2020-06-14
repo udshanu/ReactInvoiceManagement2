@@ -1,4 +1,5 @@
-using InvoiceManagementApp2.Infrastructure.Data;
+using InvoiceManagementApp2.Entities.Data;
+using InvoiceManagementApp2.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
@@ -29,6 +30,8 @@ namespace ReactInvoiceManagementApp2.Api
             {
                 configuration.RootPath = "ClientApp/build";
             });
+
+            services.AddScoped<BookService, BookService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

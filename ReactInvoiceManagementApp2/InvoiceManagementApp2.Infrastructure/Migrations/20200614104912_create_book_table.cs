@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Migrations;
 using MySql.Data.EntityFrameworkCore.Metadata;
 
-namespace InvoiceManagementApp2.Infrastructure.Migrations
+namespace InvoiceManagementApp2.Entities.Migrations
 {
     public partial class create_book_table : Migration
     {

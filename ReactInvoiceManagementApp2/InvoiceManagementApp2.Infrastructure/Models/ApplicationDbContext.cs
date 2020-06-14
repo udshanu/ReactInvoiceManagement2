@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace InvoiceManagementApp2.Infrastructure.Data
+namespace InvoiceManagementApp2.Entities.Data
 {
     public class ApplicationDbContext : DbContext
     {
